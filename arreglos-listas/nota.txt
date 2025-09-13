@@ -1,0 +1,11 @@
+En este clase aprendi a como crear botones y un buscador utilizando html, css y js
+utilizando los comandos div y input mas simbolos # se agregan las caracteristas y tambien simbolo del . 
+ejemplo se utiliza el comando input:button.botones#btnagregar para crear un boton con su caracteristicas y funcion y despues de darle a tap sale ""poner el nombre o titulo del boton
+javascript es un lenguage de programacion en el cual se programa. el html sirve como intermediario entre el usuario y la aplicacion construida en javascript.
+Un programa en general se divide en cuatro partes:1-conexiones y instructuras logicas. 2-entrada de datos.3-procesamiento logico. 4-salida de datos o resultados.
+
+javascript soporta la programacion funcional, la programacion modular, y la programacion orientada a objetos.  
+en javascript se pueden utilizar funciones nativas y funciones definidas por el programador.
+una funcion nativa es aquella que viene integrada con el lenguage de programacion y solo necesita ser invocada mas no declarada.
+
+Una funcion definida por el programador es aquella que si necesita ser declarada, definida y programada para luego ser invocada.
